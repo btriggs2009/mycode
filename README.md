@@ -22,4 +22,4 @@ What things are needed to install the software and how to install them. For now,
 
 ## Authors
 
-* **Brian Riggs** - *Initial work* - [YourWebsite](https://example.com/)
+* **Brian Riggs OMG** - *Initial work* - [YourWebsite](https://example.com/)
